@@ -85,7 +85,9 @@
             "[concat('Microsoft.Web/sites/', parameters('siteName'))]"
           ],
           "properties": {
-           
+            "phpVersion": "",
+            "alwaysOn": true,
+            "defaultDocuments": ["index.php"]
           }
         }
       ]
