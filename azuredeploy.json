@@ -86,7 +86,6 @@
           ],
           "properties": {
             "phpVersion": "",
-            "alwaysOn": true,
             "defaultDocuments": ["index.php"]
           }
         }
