@@ -86,9 +86,6 @@
           ],
           "properties": {
            
-            "phpVersion": "Off",
-            "use32BitWorkerProcess": false,
-            "alwaysOn": true
           }
         }
       ]
