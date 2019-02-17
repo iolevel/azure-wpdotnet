@@ -11,8 +11,8 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.App" />
-    <PackageReference Include="PeachPied.WordPress.AspNetCore" Version="1.0.0-alpha6" />
-    <PackageReference Include="Peachpie.AspNetCore.Mvc" Version="0.9.33" />
+    <PackageReference Include="PeachPied.WordPress.AspNetCore" Version="1.0.0-beta1" />
+    <PackageReference Include="Peachpie.AspNetCore.Mvc" Version="0.9.35" />
   </ItemGroup>
 
 </Project>
