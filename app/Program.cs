@@ -4,8 +4,6 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using PeachPied.WordPress.AspNetCore;
-using PeachPied.WordPress.Sdk;
 
 namespace PeachPied.Demo
 {
