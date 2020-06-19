@@ -29,6 +29,10 @@ namespace PeachPied.Demo
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddResponseCompression();
+            services.AddWordPress(options =>
+            {
+                
+            });
         }
 
         public void Configure(IApplicationBuilder app, IHostEnvironment env, IConfiguration configuration)
