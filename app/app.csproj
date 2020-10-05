@@ -10,7 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="PeachPied.WordPress.AspNetCore" Version="5.5.1-preview1" />
+    <PackageReference Include="PeachPied.WordPress.AspNetCore" Version="5.5.1-preview2" />
   </ItemGroup>
 
 </Project>
