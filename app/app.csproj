@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>net5.0</TargetFramework>
+    <TargetFramework>net6.0</TargetFramework>
   </PropertyGroup>
 
   <ItemGroup>
@@ -10,7 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="PeachPied.WordPress.AspNetCore" Version="5.8.2-preview12" />
+    <PackageReference Include="PeachPied.WordPress.AspNetCore" Version="6.0.1-rc-004" />
   </ItemGroup>
 
 </Project>
